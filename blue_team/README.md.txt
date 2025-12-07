@@ -1,0 +1,1 @@
+aqui vou registrar meus aprendizados de cibersegurança focados em defesa ( monitoramento, hardening, analise de logs, etc)

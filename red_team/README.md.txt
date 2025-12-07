@@ -1,0 +1,1 @@
+Aqui vou registrar meus estudos em cibersegurança focados em ataque ético ( recon, exploração, bruteforce, etc..._)
